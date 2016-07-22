@@ -1,0 +1,17 @@
+{
+  "paths" : {
+    "build" : {
+      "buildFiles": "./build/*",
+      "dir": "./build/",
+      "css": "styles.min.css",
+      "js": "./build/bundle.min.js"
+    },
+    "src" : {
+      "js": "src/js",
+      "jsPath": "src/**/*.js",
+      "app": "src/js/app.js",
+      "sass": "src/sass/global.sass",
+      "sassPath": "src/**/*.sass"
+    }
+  }
+}
